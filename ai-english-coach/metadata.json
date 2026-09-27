@@ -1,0 +1,7 @@
+{
+  "name": "AI English Coach",
+  "description": "Production-quality Android English Learning application with interactive AI conversational practice, structured modules, progress insights, and customizable coaching.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
